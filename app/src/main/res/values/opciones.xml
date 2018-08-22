@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name  = "combo_ciudades">
+        <item>Seleccione</item>
+        <item>Medellín</item>
+        <item>Bucaramanga</item>
+        <item>Bogotá</item>
+        <item>Cali</item>
+        <item>Tunja</item>
+
+
+
+    </string-array>
+
+
+
+
+</resources>
